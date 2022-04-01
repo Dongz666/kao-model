@@ -1,0 +1,17 @@
+{
+  "name": "kao-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kao-helper": "file:../kao-helper",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0",
+    "sqlite3": "^5.0.2"
+  }
+}
